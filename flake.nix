@@ -25,7 +25,7 @@
 
             meta = with pkgs.lib; {
               description = "A simple project using just";
-              homepage = "https://github.com/yourusername/simple-project";
+              homepage = "https://github.com/samrose/nix-justhook";
               license = licenses.mit;
               maintainers = with maintainers; [ ];
             };
